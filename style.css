@@ -179,32 +179,32 @@ table {
 }
 
 /* benefits section */
-.benefits {
+.hero {
     background: rgba(246, 248, 251, 0.9);
 }
 
-.benefits__content {
+.hero__content {
     display: flex;
     padding: 100px 0;
 }
 
-.benefits__img {
+.hero__img {
     min-width: 590px;
     min-height: 450px;
 }
 
-.benefits__text {
+.hero__text {
     padding-left: 60px;
 }
 
-.benefits__h3 {
+.hero__h3 {
     font-weight: 700;
     font-size: 54px;
     line-height: 64px;
     color: #424A57;
 }
 
-.benefits__p {
+.hero__p {
     font-weight: 400;
     font-size: 27px;
     line-height: 38px;
@@ -213,14 +213,14 @@ table {
 
 }
 
-.benefits__a {
+.hero__a {
     background: #0096A7;
     box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.06);
     border-radius: 50px;
     display: inline-block;
 }
 
-.benefits__a_link {
+.hero__a_link {
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
